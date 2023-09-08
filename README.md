@@ -34,7 +34,7 @@
 1. Прикрепите в файл README.md скриншот авторизации в админке.
 2. Приложите в файл README.md текст использованных команд в GitHub.
 ### Решение 1
-
+![alt text](https://github.com/SergeiShulga/Zabbix-monitoring-system/blob/main/img/zabbix.png)
 
 # Задание 2
 
